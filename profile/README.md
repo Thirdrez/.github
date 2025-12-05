@@ -160,7 +160,7 @@ To democratize high-quality 3D animation by combining cutting-edge AI technology
 <div align="center">
 
 [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/XyGmn4jkn4)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Thirdrez3D)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ThirdrezHQ)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thirdrez)
 
 </div>
