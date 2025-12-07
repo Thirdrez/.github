@@ -59,6 +59,17 @@ Explore the alpha version: **[thirdrez.com/sandbox](https://thirdrez.com/sandbox
 
 ---
 
+## 🔬 Research & Protocols
+
+Our technology is built on proprietary research in cryptographic provenance and generative motion synthesis. We believe in transparency through peer-reviewed documentation.
+
+| Technology | Paper Title | Verified DOI |
+|------------|-------------|--------------|
+| **MotionPrint™** | *A Client-Side Cryptographic Provenance Protocol for 3D Motion Data* | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17843580.svg)](https://doi.org/10.5281/zenodo.17843580) |
+| **Kinetiq Engine™** | *Hybrid Generative Motion Synthesis via Ecological Interaction Data* | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17849581.svg)](https://doi.org/10.5281/zenodo.17849581) |
+
+---
+
 ## 📦 Marketplace
 
 **Curated 3D animation library** with production-ready assets and platform-specific rigs:
