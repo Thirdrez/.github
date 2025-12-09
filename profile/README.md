@@ -6,6 +6,9 @@
 
 Production-ready motion files for game engines, virtual worlds, and creative projects
 
+[![Download Add-on](https://img.shields.io/github/v/release/Thirdrez/Support?label=⬇️%20Download%20Add-on&style=for-the-badge&color=success)](https://github.com/Thirdrez/Support/releases/latest)
+[![Report Bug](https://img.shields.io/github/issues/Thirdrez/Support?label=🐛%20Report%20Bug&style=for-the-badge&color=red)](https://github.com/Thirdrez/Support/issues)
+
 <br/>
 
 [![Website](https://img.shields.io/badge/🌐_thirdrez.com-00D9FF?style=for-the-badge)](https://thirdrez.com)
